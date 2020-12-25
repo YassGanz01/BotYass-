@@ -19,9 +19,9 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    BotName: 'ALF BOT',
+    BotName: 'BOT YASS,
     instagram: 'https://instagram.com/aditiaalfians',
-    whatsapp: 'wa.me/6285799496179',
+    whatsapp: 'wa.me/6287821016352',
     kapanbotaktif: '24 JAM',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
