@@ -13,7 +13,7 @@
 > buka
 > pkg install git
 > git clone https://github.com/alfiansx/alfbot
-> cd alfbot
+> cd BotYass-
 > bash install.sh
 > node index.js
 ```
